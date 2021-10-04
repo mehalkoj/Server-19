@@ -1,0 +1,13 @@
+body{
+    font-family: Arial;
+  padding: 10px;
+  background-image: linear-gradient(#D68060, #F1AE89, #DFF3E3, #86ABA1);
+}
+
+
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
